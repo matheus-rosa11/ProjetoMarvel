@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1hpZP35klo5yX5AgXp30L3uGd86aSuhsApIm/Rq/Tz8zfJAl+xE9eW+K8xkF1f0JtV46DgUh7JRarmIrFjf1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlfaUser\\Documents\\Projetos C#\\Exercicios\\Exercicio8\\Exercicio8\\Exercicio8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlfaUser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\AlfaUser\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\AlfaUser\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\AlfaUser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\AlfaUser\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\AlfaUser\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
